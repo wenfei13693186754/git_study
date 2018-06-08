@@ -9,5 +9,6 @@ public class GitLabDemo {
         System.out.println("gitlab学习使用1");
         System.out.println("gitlab学习使用1");
         System.out.println("gitlab学习使用1");
+        System.out.println("gitlab学习使用1");
     }
 }
