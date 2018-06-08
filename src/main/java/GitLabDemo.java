@@ -5,6 +5,6 @@
  */
 public class GitLabDemo {
     public static void main(String[] args) {
-        System.out.println("gitlab学习使用");
+        System.out.println("gitlab学习使用1");
     }
 }
